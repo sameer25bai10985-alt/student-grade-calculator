@@ -2,7 +2,7 @@
 # Student Grade Calculator (Python)
 
 This is a simple Python project for calculating a student's grade based on marks.
-It is suitable for B.Tech CSE 1st-year students learning basic Python programming.
+
 
 ## Features
 - Takes marks of 5 subjects as input
