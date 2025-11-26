@@ -28,7 +28,8 @@ else:
     grade = "Fail"
 
 # Display result
-print("\n----- Result -----")
+print(" Result ")
 print("Total Marks:", total)
 print("Percentage:", round(percentage, 2), "%")
+
 print("Grade:",grade)
