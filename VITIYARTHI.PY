@@ -27,8 +27,9 @@ elif percentage >= 50:
 else:
     grade = "Fail"
 
-# Display result
-print("\n----- Result -----")
+# Display result of student
+print("Result")
 print("Total Marks:", total)
 print("Percentage:", round(percentage, 2), "%")
+
 print("Grade:",grade)
